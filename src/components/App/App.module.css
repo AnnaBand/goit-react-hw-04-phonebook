@@ -1,0 +1,12 @@
+  .content__container {
+    justify-content: space-around;
+    margin: 0 auto;
+    margin-top: 50px;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    background-color: #b74848;
+    color: #000000;
+    border-radius: 20px;
+  }
